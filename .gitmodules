@@ -1,9 +1,9 @@
-[submodule "java-testng-web"]
+[submodule "java-web-testng-selenium"]
 	path = java-testng-web
 	url = https://github.com/bredah/java-testng-web.git
-[submodule "java-testng-appium-web"]
+[submodule "java-web-testng-appium"]
 	path = java-testng-appium-web
 	url = https://github.com/bredah/java-testng-appium-web.git
-[submodule "java-api-junit5-api"]
+[submodule "java-api-junit5-restassured"]
 	path = java-api-junit5-api
 	url = https://github.com/bredah/java-api-junit5-api.git
